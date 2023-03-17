@@ -1,0 +1,92 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.container{
+    width: 800px;
+    margin: 0px auto;
+    padding-top: 80px;
+    display: flex;
+}
+
+.gambar{
+    width: 50%;
+}
+
+.img-thumb{
+    width: 87%;
+}
+
+.card-wrapper{
+    width: 50%;
+    text-align: center;
+}
+
+.card{
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    background-color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.logo{
+    width: 190px;
+    margin-top: 20px;
+}
+
+.form{
+    margin-top: 30px;
+}
+
+.input{
+    width: 300px;
+    height: 30px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 4px;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: #0095f6;
+    border: 2px solid transparent;
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+
+.or{
+    color: rgb(146, 142, 142);
+}
+
+.login-with{
+    text-decoration: none;
+}
+
+.link-forgot{
+    color: black;
+    text-decoration: none;
+    padding-top: 30px;
+}
+
+.link-signup{
+    color: #0095f6;
+    text-decoration: none;
+}
+
+.img-store{
+    width: 80%;
+}
+
+footer{
+    text-align: center;
+    color: grey;
+    word-spacing: 10px;
+    font-size: smaller;
+}
